@@ -1,0 +1,30 @@
+
+p {
+    border: dotted 2px blue;
+        margin: 1em; 
+        padding: 0.5em 2em;
+        font-style: italic;
+        font-size: 1.2em;
+        font-family: courier, georgia, serif;
+        background:#92DBDB;
+     
+}
+li {
+    list-style: square inside;
+    background:#CEF1F1;
+}
+
+h1 { 
+    font-style: italic;
+    font-size: 1,5m;
+    border: rgb(16, 177, 177) groove 5mm ;
+
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#36A5A5
+}
+
+
+
+

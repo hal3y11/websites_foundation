@@ -1,0 +1,29 @@
+p {
+    border: dotted 2px blue;
+        margin: 1em; 
+        padding: 0.5em 2em;
+        font-style: italic;
+        font-size: 1.2em;
+        font-family: courier, georgia, serif;
+     
+}
+#aim {background-color: hotpink;}
+li {
+    list-style: square inside;
+
+}
+
+.shows {
+    margin-top: 5em;
+}
+
+nav li{
+    border-bottom: grey 3px;
+}
+h1, h2 {
+    color: rgb(88, 37,231);
+}
+
+
+
+

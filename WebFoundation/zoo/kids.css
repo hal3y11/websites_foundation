@@ -1,0 +1,39 @@
+a {
+    background-color: #86C8BC;
+    color: white;
+    padding: 0.5em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+header{
+    background:#86C8BC;
+}
+.kidspara{
+    text-align: center;
+    background-color: #86C8BC;
+    color: white;
+}
+.Educational{
+    background-color: #86C8BC;
+}
+body{
+    background-color:#D9F8C4;
+}
+
+.pure-g{
+    background-color:rgba(26,77,46,255) ;
+    
+    
+}
+.pure-u-1-3{
+    background-color: #86C8BC;
+    color: white;
+}
+section{
+    margin: 3.5em;
+}
+li{font: 1em sans-serif;
+    font-size: 14pt;
+
+}
